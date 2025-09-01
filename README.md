@@ -13,8 +13,8 @@ Inspired by the [SQL Zoo assignment](https://www.theodinproject.com/lessons/node
 * [x] 3 SELECT from Nobel
 * [x] 4 SELECT within SELECT
 * [x] 5 SUM and COUNT
-* [ ] 6 JOIN
-* [ ] 7 More JOIN operations
+* [x] 6 JOIN
+* [x] 7 More JOIN operations
 * [ ] 8 Using NULL
 * [ ] 8+ Numeric Examples
 * [ ] 9- Window function
