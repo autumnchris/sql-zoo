@@ -15,8 +15,5 @@ Inspired by the [SQL Zoo assignment](https://www.theodinproject.com/lessons/node
 * [x] 5 SUM and COUNT
 * [x] 6 JOIN
 * [x] 7 More JOIN operations
-* [ ] 8 Using NULL
-* [ ] 8+ Numeric Examples
-* [ ] 9- Window function
-* [ ] 9+ COVID 19
+* [x] 8 Using NULL
 * [ ] 9 Self join
