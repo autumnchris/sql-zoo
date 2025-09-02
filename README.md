@@ -16,4 +16,4 @@ Inspired by the [SQL Zoo assignment](https://www.theodinproject.com/lessons/node
 * [x] 6 JOIN
 * [x] 7 More JOIN operations
 * [x] 8 Using NULL
-* [ ] 9 Self join
+* [x] 9 Self JOIN
